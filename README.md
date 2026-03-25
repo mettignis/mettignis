@@ -2,8 +2,8 @@
 
 Born and raised in [Brescia](https://en.wikipedia.org/wiki/Brescia)🇮🇹, I’ve always loved exploring how things work behind the scenes.  
 
-🎓 I’m studying **Computer Science and Engineering** at [Politecnico di Milano](https://www.polimi.it/en/), currently completing my [Bachelor’s in Engineering of Computing Systems
-](https://www.polimi.it/en/education/laurea-programmes/programme-detail/engineering-of-computing-systems) and starting my [Master’s in Computer Science and Engineering](https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/computer-science-and-engineering) *(English track)*.  
+🎓 I’m a **Computer Science Engineer** from [Politecnico di Milano](https://www.polimi.it/en/), I've recently completed my [Bachelor’s in Engineering of Computing Systems
+](https://www.polimi.it/en/education/laurea-programmes/programme-detail/engineering-of-computing-systems) and started my [Master’s in Computer Science and Engineering](https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/computer-science-and-engineering) *(English track)*.  
 
 🎨 I’m passionate about **UI/UX design**, **graphics**, and how visual choices shape perception.  
 Recently, I’ve also developed a strong curiosity for **cybersecurity**, which I plan to explore further during my Master’s.  
