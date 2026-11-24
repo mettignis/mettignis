@@ -8,4 +8,6 @@ Some of my [projects](https://www.annamettifogo.com/projects) start with somethi
 
 🥋 Away from the screen, I’m a **karate black belt**, competing nationally and working on becoming a coach. I also play guitar with friends and have died in Souls games far too many times.
 
+🏃🏻‍♀️ I love sports of every kind — from **running** and **swimming** to **mountain hiking**. I’m currently training for a **half marathon**, aiming one day for a **full marathon** and an [Ironman](https://en.wikipedia.org/wiki/Ironman_Triathlon).
+
 [LinkedIn](https://www.linkedin.com/in/anna-mettifogo-a37751292/) · [Strava](https://www.strava.com/athletes/123671944) · [Spotify](https://open.spotify.com/user/anna.mettifogo?si=4f7ede967b0a4f5d) · [Instagram](https://www.instagram.com/mettignis/)
