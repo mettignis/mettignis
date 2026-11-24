@@ -1,16 +1,11 @@
-# 👋🏼 Hi, I'm Anna Mettifogo  
+# Hi, I’m Anna.
 
-Born and raised in [Brescia](https://en.wikipedia.org/wiki/Brescia)🇮🇹, I’ve always loved exploring how things work behind the scenes.  
+I grew up in Brescia. These days I’m studying for my **Master’s in Computer Science and Engineering** at [Politecnico di Milano](https://www.polimi.it/en/), spending time at [NECSTLab](https://necst.it/) and working as a **Software Development Engineer** at [Sensia](https://sensia.bio).
 
-🎓 I’m a **Computer Science Engineer** from [Politecnico di Milano](https://www.polimi.it/en/), I've recently completed my [Bachelor’s in Engineering of Computing Systems
-](https://www.polimi.it/en/education/laurea-programmes/programme-detail/engineering-of-computing-systems) and started my [Master’s in Computer Science and Engineering](https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/computer-science-and-engineering) *(English track)*.  
+A lot of what I do ends up somewhere between code and visual design: building something, figuring out how it should work, then spending a little too long deciding how it should look. Lately, I’ve been getting into **application security**, especially where it meets UI and UX design.
 
-🎨 I’m passionate about **UI/UX design**, **graphics**, and how visual choices shape perception.  
-Recently, I’ve also developed a strong curiosity for **cybersecurity**, which I plan to explore further during my Master’s.  
+Some of my [projects](https://www.annamettifogo.com/projects) start with something I want to use myself. Others are an excuse to try something I haven’t done before. I keep them on [my website](https://www.annamettifogo.com/), alongside writing and music.
 
-🥋 When I'm not deep in books or in front of my computer, I'm 99% doing sports: I’m a **black belt in karate** with over 10 years of practice, and I love the discipline, focus, and strength it brings.  
+Away from the screen, I’m a **karate black belt**, competing nationally and working on becoming a coach. I also play guitar with friends and have died in Souls games far too many times.
 
-🏃🏻‍♀️ I love sports of every kind — from **running** and **swimming** to **mountain hiking**. I’m currently training for a **half marathon**, aiming one day for a **full marathon** and an [Ironman](https://en.wikipedia.org/wiki/Ironman_Triathlon).
-
----
-[Linkedin](https://www.linkedin.com/in/anna-mettifogo-a37751292/) • [Strava](https://www.strava.com/athletes/123671944) • [Spotify](https://open.spotify.com/user/anna.mettifogo?si=4f7ede967b0a4f5d) • [Instagram](https://instragram.com/mettignis)
+[LinkedIn](https://www.linkedin.com/in/anna-mettifogo-a37751292/) · [Strava](https://www.strava.com/athletes/123671944) · [Spotify](https://open.spotify.com/user/anna.mettifogo?si=4f7ede967b0a4f5d) · [Instagram](https://www.instagram.com/mettignis/)
